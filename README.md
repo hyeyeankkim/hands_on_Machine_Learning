@@ -4,3 +4,7 @@
 
 책에 있는 내용과 연습문제를 코딩하려고 만들었습니다. 
 
+원본자료 
+https://github.com/ageron/handson-ml2
+
+
